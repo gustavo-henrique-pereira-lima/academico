@@ -18,3 +18,5 @@ while True:
     if eventos == 'Entrar':
         if valores['usuario'] == 'jhonatan' and valores['senha'] == '123456':
             print('Bem-vindo!!!!!!!!!!!!!!!!')
+
+            tornando esse documento um doc de versão 2
